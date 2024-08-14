@@ -1,0 +1,13 @@
+2024-08-12 08:53:23 [background-preinit] INFO  Version:21 - HV000001: Hibernate Validator 8.0.1.Final
+2024-08-12 08:53:23 [main] INFO  EpicApiConnectorApplication:50 - Starting EpicApiConnectorApplication using Java 17.0.10 with PID 1120 (C:\Users\Administrator\Desktop\New folder (4)\epic-api-connector\target\classes started by Administrator in C:\Users\Administrator\Desktop\New folder (4)\epic-api-connector)
+2024-08-12 08:53:23 [main] INFO  EpicApiConnectorApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-08-12 08:53:25 [main] INFO  TomcatWebServer:109 - Tomcat initialized with port 8083 (http)
+2024-08-12 08:53:25 [main] INFO  Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-8083"]
+2024-08-12 08:53:25 [main] INFO  StandardService:173 - Starting service [Tomcat]
+2024-08-12 08:53:25 [main] INFO  StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-08-12 08:53:25 [main] INFO  [/]:173 - Initializing Spring embedded WebApplicationContext
+2024-08-12 08:53:25 [main] INFO  ServletWebServerApplicationContext:296 - Root WebApplicationContext: initialization completed in 2567 ms
+2024-08-12 08:53:26 [main] INFO  DefaultSecurityFilterChain:54 - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@45a1d057, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@51a16adf, org.springframework.security.web.context.SecurityContextHolderFilter@88b76f2, org.springframework.security.web.header.HeaderWriterFilter@236fdf, org.springframework.security.web.authentication.logout.LogoutFilter@e5c2463, com.clearskye.epicconnector.jwtConfig.JwtAuthFilter@2ecf5915, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@498a612d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1e1237ab, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@385d819, org.springframework.security.web.session.SessionManagementFilter@57f8951a, org.springframework.security.web.access.ExceptionTranslationFilter@5ac53c06, org.springframework.security.web.access.intercept.AuthorizationFilter@1320e68a]
+2024-08-12 08:53:27 [main] INFO  Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-8083"]
+2024-08-12 08:53:27 [main] INFO  TomcatWebServer:241 - Tomcat started on port 8083 (http) with context path ''
+2024-08-12 08:53:27 [main] INFO  EpicApiConnectorApplication:56 - Started EpicApiConnectorApplication in 4.806 seconds (process running for 6.538)
